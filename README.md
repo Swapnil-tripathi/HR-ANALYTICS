@@ -27,18 +27,18 @@
   * NumCompaniesWorked: Number of companies worked
   * Over18: Age over 18 years
   * OverTime: Whether the employee works overtime
- * PercentSalaryHike: Salary increment in percentages
- * PerformanceRating: Performance rating
- * RelationshipSatisfaction: Employee relationship satisfaction
- * StandardHours: Standard hours worked by the employee
- * StockOptionLevel: Stock options level
- * TotalWorkingYears: Total working years
- * TrainingTimesLastYear: Training times in the last year
- * WorkLifeBalance: Work-life balance rating
- * YearsAtCompany: Years at the company
- * YearsInCurrentRole: Years in the current role
- * YearsSinceLastPromotion: Years since the last promotion
- * YearsWithCurrManager: Years with the current manager
+  * PercentSalaryHike: Salary increment in percentages
+  * PerformanceRating: Performance rating
+  * RelationshipSatisfaction: Employee relationship satisfaction
+  * StandardHours: Standard hours worked by the employee
+  * StockOptionLevel: Stock options level
+  * TotalWorkingYears: Total working years
+  * TrainingTimesLastYear: Training times in the last year
+  * WorkLifeBalance: Work-life balance rating
+  * YearsAtCompany: Years at the company
+  * YearsInCurrentRole: Years in the current role
+  * YearsSinceLastPromotion: Years since the last promotion
+  * YearsWithCurrManager: Years with the current manager
 # Project Steps
 # Step 1: Loading and Analyzing the Dataset
    * Load the dataset, analyze its shape, and check the number of columns.
